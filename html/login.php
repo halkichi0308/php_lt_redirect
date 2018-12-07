@@ -69,7 +69,7 @@ if(!empty($_SESSION['err'])){
 
         </div>
         <div class="forgot">
-        <a href="reset.html">Forgot password?</a>
+        <a href="#">Forgot password?</a>
 </div>
         <button type="submit" class="btn btn-primary">Login</button>
 
